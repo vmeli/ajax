@@ -1,0 +1,48 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+html { 
+  font-size: 62.5%; 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+	background-color: #99E7F1;
+}
+
+.title {
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 3rem;
+	text-align: center;
+	color: #fff;
+}
+
+.list-page {
+	padding: 0;
+	list-style: none;
+	font-size: 0;
+}
+
+.list-item {
+	display: inline-block;
+	margin: 1rem;
+	background-color: #DB9B41;
+	font-size: 1.5rem;
+	padding: 0.5rem 1rem;
+}
+
+.list-item a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
